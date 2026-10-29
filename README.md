@@ -1,6 +1,8 @@
+![Cybersecurity Banner](./cybersecurity-banner.png)
+
 
 # Hi, I'm Naga Kanaka Durgarao 👋
-![Cybersecurity Banner](./cybersecurity-banner.png)
+
 ### Cybersecurity Graduate | Aspiring SOC Analyst
 
 I'm a cybersecurity graduate interested in Security Operations Center (SOC) operations, SIEM monitoring, incident investigation, network security, and threat detection.
